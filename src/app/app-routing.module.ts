@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { AppComponent } from './app.component';
 import { BlueComponent } from 'app/blue/blue.component';
 import { RedComponent } from 'app/red/red.component';
 
